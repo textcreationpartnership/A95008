@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true copy of a petition promoted in the Army, and already presented to His Excellency the Lord General, by the officers and soldiers of the regiment under the command of Commissary General Ireton.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95008</idno>
+            <idno type="STC">Wing T2632</idno>
+            <idno type="STC">Thomason E468_18</idno>
+            <idno type="EEBO-CITATION">99863707</idno>
+            <idno type="PROQUEST">99863707</idno>
+            <idno type="VID">162336</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95008)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162336)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E468[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true copy of a petition promoted in the Army, and already presented to His Excellency the Lord General, by the officers and soldiers of the regiment under the command of Commissary General Ireton.</title>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+                  <author>Morgan, Anthony, Sir, 1621-1668.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Anthony Morgan [and six others].</note>
+                  <note>Annotation on Thomason copy: "8ber [i.e. October] ye 29th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  History --  17th century.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162336:1" rendition="simple:additions"/>
+            <p>THE TRUE COPY OF A PETITION Promoted in the ARMY, And already preſented to His Excellency The Lord General, BY The Officers and Soldiers of the Re<g ref="char:EOLhyphen"/>giment under the Command of <hi>Commiſsary General JRETON.</hi>
+            </p>
+            <p>
+               <add>8ber y<hi rend="sup">e</hi> 19<hi rend="sup">th.</hi>
+               </add> 
+               <hi>London,</hi> Printed in the year 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162336:2"/>
+            <pb n="3" facs="tcp:162336:2"/>
+            <head>To his Excellency the Lord <hi>Fairfax</hi> our ever honored General;</head>
+            <head type="sub">The humble Petition of the Officers and Soldiers of the Regiment of Commiſſary General <hi>Ireton;</hi>
+            </head>
+            <opener>SHEWETH,</opener>
+            <p>THat although we are as earneſtly deſirous of a ſafe and well-grounded Peace, and that a final end were put to all the troubles and miſeries of the Commonwealth, as any ſort of men whatſoever: Yet conſidering,</p>
+            <p n="1">I. That there is no Juſtice done againſt, or tryal of the Contrivers or Abettors of the Rebellion in Wales, Kent; that of Holland, Buckingham, and their Accomplices: or of the Confederates with the Apoſtate Scots: and indeed little Juſtice by
+<pb n="4" facs="tcp:162336:3"/>the Parliament done upon any Offendors of that kind. By which we have too much cauſe to fear, that there may be a party in the Parliament abet<g ref="char:EOLhyphen"/>ting and correſponding with (if not guilty of) the ſame Deſignes.</p>
+            <p n="2">II. That notwitſtanding the King hath betray<g ref="char:EOLhyphen"/>ed the truſt repoſed in him, and raiſed War againſt this Nation to enſlave it, violating his Oaths and trampling under foot our Laws, (then which no Engagement now taken can be more binding:) notwithſtanding he is guilty of all the blood-ſhed in theſe inteſtine Wars, as may appear not only by the Declaration of the Parliament of England, and that of Scotland, but even by his own con<g ref="char:EOLhyphen"/>feſſion in his late agreeing to the Parliaments firſt Propoſition: being alſo a perſon who was ſo far concluded uncapable to govern, that the Par<g ref="char:EOLhyphen"/>liament voted no Addreſs ſhould be made to him. There is yet a prevalent party of his Creatures, who in Parliament, and elſewhere, act his Deſign, and endeavor to re-inthrone him, and are (as we con<g ref="char:EOLhyphen"/>ceive) the Authors of our preſent Diſtractions.</p>
+            <p n="3">III. That through the evil Deſigns and Pra<g ref="char:EOLhyphen"/>ctiſes of the foreſaid Party, the intolerable bur<g ref="char:EOLhyphen"/>then of Free Quarter is continued upon the people, notwithſtanding the unreaſonable taxes dayly ex<g ref="char:EOLhyphen"/>torted
+<pb n="5" facs="tcp:162336:3"/>from them, in the name of pay for the Ar<g ref="char:EOLhyphen"/>my: By which means we are not only rendred odious to others, but a burthen to our ſelves, not being able to cloth our ſelves, ſhoe our horſes, or free our Arms.</p>
+            <p>We therefore cannot think any thing can ſafely be done in order to a peace, until ſome ſpeedy and effectual courſe be taken, which we humbly de<g ref="char:EOLhyphen"/>ſire your Excellency will be pleaſed, to your utmoſt power, to endevor,</p>
+            <p n="1">1. That there may be a ſtrict ſcrutiny, for the more full <hi>diſcovery</hi> of ſuch <hi>perſons</hi> as were <hi>contrivers</hi> or <hi>encouragers</hi> of the Rebellions aforeſaid, and that Justice ſpee<g ref="char:EOLhyphen"/>dily be executed on them according to the late <hi>Orders of Parliament.</hi>
+            </p>
+            <p n="2">2. That impartial and ſpeedy Juſtice may be done upon all <hi>criminal perſons,</hi> and eſpecially upon ſuch as have or ſhall en<g ref="char:EOLhyphen"/>deavor to obstruct the <hi>courſe</hi> thereof, or
+<pb n="6" facs="tcp:162336:4"/>have betrayed their <hi>Truſt,</hi> or bin <hi>Authors</hi> of ſhedding that innocent blood, which calls to
+<hi>Heaven</hi> for <hi>Vengeance,</hi> that ſo we may be at peace with God. </p>
+            <p n="3">3. That the ſame <hi>fault</hi> may have the ſame <hi>puniſhment</hi> in the <hi>perſon</hi> of <hi>King</hi> or <hi>Lord,</hi> as in the <hi>perſon</hi> of the pooreſt <hi>Commoner.</hi>
+            </p>
+            <p n="4">4. That all ſuch may be proceeded againſt as <hi>Traytors,</hi> who act or ſpeak in the <hi>Kings</hi> behalf, till he ſhall be acquitted of the guilt of ſhedding innocent blood.</p>
+            <p n="5">5. That the <hi>Army</hi> may ſpeedily have their pay, or a <hi>preſent courſe</hi> be taken a<g ref="char:EOLhyphen"/>gainſt thoſe who unjuſtly with-hold it; and that they may have the <hi>Arrears</hi> due ſince <hi>January</hi> 15. before they be <hi>ordered</hi> to pay <hi>Quarters,</hi> and effectual proviſion made for the payment of former <hi>Arrears.</hi>
+            </p>
+            <p n="6">6. That the <hi>intolerable oppreſsion</hi> of <hi>free Quarter</hi> be immediatly taken off, and
+<pb n="7" facs="tcp:162336:4"/>that for the time to come, whilst there is ne<g ref="char:EOLhyphen"/>ceſsity for an <hi>Army,</hi> there may be <hi>Aſsig<g ref="char:EOLhyphen"/>nations</hi> given to each <hi>Regiment, Troop and Company,</hi> which may be conſtant, du<g ref="char:EOLhyphen"/>ring the <hi>Eſtabliſhments</hi> of the <hi>Army,</hi> that the money may not paſs from hand to hand till it is half imbezelled, but be paid immediatly from the
+<hi>Countries</hi> to the Sol<g ref="char:EOLhyphen"/>diery, that ſo all <hi>free Quarter</hi> for ever a<g ref="char:EOLhyphen"/>voyded, it may return from the Souldier to the Countryman again</p>
+            <p>And now fearing, leſt the inveterate malice of our Adverſaries ſhould aſperſe us with a deſign to deſtroy Magiſtracy and propriety; we can<g ref="char:EOLhyphen"/>not but declare, that we ſhall con<g ref="char:EOLhyphen"/>ſtantly endevor to defend them both with our lives and fortunes, and in expectation of your Excel<g ref="char:EOLhyphen"/>lencies favour in the Premiſes, we ſhall ever pray, &amp;c.</p>
+            <p>
+               <pb n="8" facs="tcp:162336:5"/>
+The great Neceſſities and preſſing Grievances of the Soldiery have inforced us to make theſe out Addreſſes (by way of Petition) to the Lord Ge<g ref="char:EOLhyphen"/>neral, for the redreſs of them; and knowing that our preſent undertakings will ere long be preſent<g ref="char:EOLhyphen"/>ed to publick view, the Officers in the Regi<g ref="char:EOLhyphen"/>ment, under the command of Commiſſary Gene<g ref="char:EOLhyphen"/>ral Ireton, by whoſe appointment this is already preſented to his Excellency the Lord General, have (to prevent any prejudice, which otherwiſe might accrue to our preſent proceedings, by any falſe or miſtaken Copy, ſurreptitiouſly gotten and publiſhed in their name) deſired me to print the ſame, with the name of an Officer of each Troop ſubſcribed, in the behalf, and at the requeſt of the Officers and Soldiers of the ſaid Regiment, that ſo the Reader may be the better ſatisfied.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Anthony Morgan.</hi>
+                     </item>
+                     <item>
+                        <hi>Sampſon Tongood.</hi>
+                     </item>
+                     <item>
+                        <hi>Iames Gennings.</hi>
+                     </item>
+                     <item>
+                        <hi>Iervice Iefferis.</hi>
+                     </item>
+                     <item>
+                        <hi>William Rauce.</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Clare,</hi> junior.</item>
+                     <item>
+                        <hi>H. C.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
